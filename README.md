@@ -1,2 +1,2 @@
 # 2019_Spring_Java
-homework for the course CS102A
+homework of the course CS102A
